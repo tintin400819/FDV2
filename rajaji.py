@@ -5,7 +5,7 @@
 BOT_TOKEN=("8009925522:AAE3dXnb3QTVNlkH2c7wYoq6KwEZ5Bmtr90")
 
 # Enter Your telegram usernames here without @
-OWNER_USERNAME=("@Ayush143", "@ClutchGodOp")
+OWNER_USERNAME=("@Ayush143", "@Sandipan_1508")
 
 # Enter your admin IDs here. Get it from @missRose_bot by typing /info
-ADMIN_IDS=("859818729", "787517301")
+ADMIN_IDS=("859818729", "6228283651")
